@@ -1,0 +1,1 @@
+A simple utility class for interop between PlayFramework and Guava's ListenableFuture.
